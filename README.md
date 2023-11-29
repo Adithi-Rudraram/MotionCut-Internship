@@ -11,7 +11,7 @@ This application contains 7 different options
 6. Display Completed Tasks
 7. Exit
 
-These features collectively create a to-do list, allowing users to add, view, update, and remove tasks, as well as completed tasks. 
+These features collectively create a to-do list, allowing users to add, view, update, remove and complete tasks. 
 
 ![image](https://github.com/Adithi-Rudraram/MotionCut-Internship/assets/81702324/6fffc4ee-26ea-4026-b4e5-676c17653995)
 
@@ -37,3 +37,10 @@ The player is prompted to start a new quest or exit the game.
 
 If the player continues, the game loops back to the quest initiation.
 If the player chooses to exit, the game ends with a farewell message.
+
+
+# WEEK - 3 PASSWORD GENERATOR
+This Python script allows you to generate strong and secure passwords based on the length given by the user. Uppercase letters, lowercase letters, numbers, or special characters, this tool has got all covered.
+Randomized selection for added security
+User-friendly command-line interface
+![image](https://github.com/Adithi-Rudraram/MotionCut-Internship/assets/81702324/735f6f21-fe57-4320-90d3-b9c68fe3e956)
